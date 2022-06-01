@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Mulish:wght@200;500&display=swap');
+/*Hay una carpeta fuentes con la tipografia original que queria usar, pero me salta un error cuando trato de hacerlo, asi use la tipo mulish en su lugar*/
+body {
+  background-color: white;
+  padding-left: 3%;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Mulish', sans-serif;
+  font-size: 50;
+  line-height: 20%;
+}
+h1{
+  color: rgb(249, 203, 113);
+  font-family: 'Mulish', 'sans-serif';
+  font-weight: 500;
+  font-size: 30em;
+  line-height: 100%;
+}
+h2{
+  font-family: 'Mulish', 'sans-serif';
+  font-weight: 200;
+  color: rgb(0, 77, 111);
+  font-size: 12em;
+  line-height: 100%;
+}
+p{
+  font-family: 'Montserrat', 'sans-serif';
+  font-weight: 200;
+  font-size: 5em;
+  line-height: 100%;
+}
+#redes{
+  font-family: 'Montserrat', 'sans-serif';
+  font-weight: 200;
+  font-size: 4em;
+  line-height: 100%;
+}
+
